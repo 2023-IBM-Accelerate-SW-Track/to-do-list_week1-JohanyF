@@ -6,7 +6,7 @@ export default class About extends Component {
       <div>
         <div className="split left">
           <div className="centered">
-            <img className="profile_image" alt="Profile Pic"></img>
+            <img className="profile_image" src="../assets/photo.jpg" alt="Profile Pic"></img>
           </div>
         </div> 
         <div className="split right">
